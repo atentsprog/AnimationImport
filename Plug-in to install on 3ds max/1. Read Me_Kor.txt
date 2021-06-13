@@ -1,0 +1,22 @@
+﻿
+설치 
+1. ENU 폴더를 
+"C:\Users\\[사용자이름]\AppData\Local\Autodesk\3dsMax\[맥스버전]" 폴더에 덮어 씌운다
+* "Users"폴더 이름이 OS에 따라 "사용자"로 되어 있다
+* "AppData"폴더가 안보일때는 폴더 숨김 폴더 속성을 풀자 ( https://www.google.co.kr/search?q=숨김+폴더 )
+* 맥스 한글 버전을 사용한다면 KOR폴더에 덮어 씌워야 한다
+
+맥스 켜 있었다면 재시작 필요
+
+2. Editor 폴더를 적용하려는 Unity 프로젝트 
+Assets 폴더에 덮어 씌운다
+
+
+3. 맥스에서 애니메이션 정보 내보내기
+"2. Install on 3DS Max UI.jpg"를 참고해서 맥스UI에 보이게 한다
+ClipLister 실행
+
+
+4. 유니티에서 애니메이션 정보 가져오기
+맥스 파일 선택 -> 우클릭 -> "Import animation frame" 선택
+

@@ -1,0 +1,2 @@
+rightMove,11,19
+moveUp,20.7,31

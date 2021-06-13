@@ -1,0 +1,23 @@
+﻿How to Install
+
+1. Open the ENU folder
+Overwrite "Copy to 3DSMax" folder in the path below
+"C:\Users\[username]\AppData\Local\Autodesk\3dsMax\[max version]"
+* "Users" folder name is "Users" according to OS
+* If you don't see the "AppData" folder, unzip the folder hidden folder properties (https://www.google.com/search?q=hidden+folder)
+* If you use a non-English version of 3DS Max, you will need to overwrite the rata-specific folders (KOR, JAP, ..)
+
+Restart required if Max was on
+
+
+2. Unity project to which you want to apply the Editor folder
+Overwrite Assets Folder
+
+
+3. Export animation information from Max
+Refer to "2. Install on 3DS Max UI.jpg" to make it visible in Max UI.
+Run ClipLister
+
+
+4. Get Animation Information from Unity
+Select max file-> right click-> select "import animation frame"

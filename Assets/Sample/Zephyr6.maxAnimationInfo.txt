@@ -1,0 +1,12 @@
+ALL,0,1000
+defenseIdle,30,91
+attack,200,240
+attack2,300,345
+activeAttack,370,430
+attacked,460,475
+attackedJump,500,520
+attackedGetUp,520,540
+die,580,610
+stun,700,760
+run,850,874
+activeAttack2,900,970
